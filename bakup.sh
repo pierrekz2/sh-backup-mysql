@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 CONTAINER_NAME=""
 dir_base=""
